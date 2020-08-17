@@ -1,6 +1,6 @@
 # Digit-Recogition-Competition
 
-Submission for the Kaggle classification competition for the MNIST handwritten digit labelled dataset: This folder contains the submission attempt summary (without hyperparameter tuning).
+Submission for the Kaggle classification competition for the MNIST handwritten digit labelled dataset: This folder contains the submission attempt code and datasets(without hyperparameter tuning).
 
 The respective Jupyter notebook goes through the process of data acquisition, preprocessing, feature modelling, data cleaning and the machine learning pipeline followed. <b>A convolutional neural network is used along with data augmentation to get a more varied training dataset for better accuracy</b>. Tensorflow Backend is used along with Keras
 
